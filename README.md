@@ -1,5 +1,7 @@
 # Macintosh-ADB-XCVR-Adapter
 
+![ADB-XCVR-Adapter](/ADB-XCVR-Adapter.jpg)
+
 This will allow the use of the PLCC ADB Transceiver in the Macintosh SE, which is the only model that uses a DIP18 part.
 
 Just upload the zip to JLCPCB, it's simply one PLCC28 socket (SMT) and headers.
